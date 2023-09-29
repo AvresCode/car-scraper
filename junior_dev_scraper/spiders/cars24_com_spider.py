@@ -36,5 +36,4 @@ class Car24ComSpider(scrapy.Spider):
             **car_data,  # Include main page data
             "Fuel": fuel,
         }
-
-        {'Brand': 'JEEP WRANGLER', 'Year': '2020 | SAHARA', 'Link': 'https://www.cars24.com/ae/buy-used-jeep-wrangler-2020-cars-dubai-9714825119/', 'Price': '170,222', 'Mileage': '81,538 km', 'Engine Size': '6cyl 3.6L ', 'Fuel': '3.6L'}
+        
